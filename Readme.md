@@ -14,13 +14,13 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  Run the index.html file
 ```
 
 Open with VSCode
 
 ```bash
-  code .
+  
 ```
 
 Open with live server
