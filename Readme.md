@@ -17,11 +17,7 @@ Go to the project directory
   Run the index.html file
 ```
 
-Open with VSCode
 
-```bash
-  
-```
 
 Open with live server
 
