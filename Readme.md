@@ -39,4 +39,6 @@ Take a moment to review the project structure:
 - `README.md`: Documentation of my project.
   
 4. **Depoloyed Project Link:**
+
+   https://marmeto-seven.vercel.app/
 #
